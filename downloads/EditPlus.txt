@@ -1,0 +1,3 @@
+EditPlus Linux版！使用gtk3界面库！除了Linux版还出跨平台版（Windows版，MacOSX版）！已投资！
+
+https://sourceforge.net/projects/editplus/
